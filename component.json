@@ -1,0 +1,7 @@
+{
+  "name": "tapas2-mobile",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular-mobile-nav": "latest"
+  }
+}
