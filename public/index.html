@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html>
-  <head lang="en">
-    <title>bower-heroku</title>
+<!doctype html>
+<html ng-app>
+  <head>
+    <script src="/components/angular/angular.min.js"></script>
   </head>
-
   <body>
-    bower-heroku
+    <div>
+      <label>Name:</label>
+      <input type="text" ng-model="yourName" placeholder="Enter a name here">
+      <hr>
+      <h1>Hello {{yourName}}!</h1>
+    </div>
   </body>
 </html>

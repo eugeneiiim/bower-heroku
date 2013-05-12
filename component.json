@@ -1,7 +1,7 @@
 {
-  "name": "tapas2-mobile",
+  "name": "bower-heroku",
   "version": "0.0.0",
   "dependencies": {
-    "angular-mobile-nav": "latest"
+    "angular": "~1.0.6"
   }
 }
