@@ -1,1 +1,3 @@
-Minimal bower/express configuration deployable on heroku.
+# bower-heroku
+
+Minimal heroku-deployable bower/express/angular app.
